@@ -1,0 +1,17 @@
+{
+  "name": "marketplace-backend",
+  "version": "1.0.0",
+  "description": "This is a demo project of a shop/marketplace with the MERN stack.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.6.3",
+    "nodemon": "^3.0.1"
+  }
+}
